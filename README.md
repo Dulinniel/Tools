@@ -8,7 +8,7 @@ It just compîle tools I use daily, I will update it based on my need or on requ
 
 ### videoConverter
 
-A utility that use raw ffmpeg to convert a video format to another
+A utility that use raw ffmpeg to convert a video format to another. The default Audio codec is set to VP9 and the default audio codec to libvorbis. If you want to change the used codec, there is two variables `AUDIO_CODEC` and `VIDEO_CODEC` that you can edit at the very begining of the file
 
 Basic usage : 
 

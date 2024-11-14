@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# @TODO: Add a parameter to change the used codec in the tool
 AUDIO_CODEC=libvorbis
 VIDEO_CODEC=vp9
 
